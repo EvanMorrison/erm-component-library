@@ -327,6 +327,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .flex {
   display: flex;
 }
+.contents {
+  display: contents;
+}
 .flex-col {
   flex-direction: column;
 }
